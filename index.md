@@ -1,5 +1,3 @@
-# Dralom
-
 ## Welcome
 
 For the time being this is mostly a placeholder webiste. In the future this may grow into a larger personal presentation website, but it is not that yet.
